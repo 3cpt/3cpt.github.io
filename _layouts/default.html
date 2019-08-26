@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>
+        {% if page.title %}
+            {{ page.title }} &mdash;
+        {% endif %}
+        {{ site.name }} &mdash; {{ site.description }}
+    </title>
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+</head>
+
+<body>
+    <div id="main" role="main" class="container">
+        {% include header.html %}
+    </div>
+
+    <div id="main" role="main" class="container">
+        {{ content }}
+    </div>
+    <hr>
+    <p>
+        <small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> </i> </small>
+    </p>
+
+    {% include analytics.html %}
+</body>
+</html>

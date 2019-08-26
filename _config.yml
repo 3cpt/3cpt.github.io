@@ -1,0 +1,14 @@
+name: "Andre"
+description: "Warden of the Code Clean"
+
+google_analytics:
+
+url: https://andxpto.github.io
+baseurl: ""
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: :compressed
