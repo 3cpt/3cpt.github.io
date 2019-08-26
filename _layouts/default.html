@@ -10,7 +10,10 @@
         {{ site.name }} &mdash; {{ site.description }}
     </title>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    {% if site.highlighter %}
+        <link rel='stylesheet' href='{{ site.url }}/style.css' type='text/css'>
+    {% endif %}
+
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 
 </head>
@@ -24,7 +27,7 @@
         {{ content }}
         
         <hr>
-        
+
         <p>
             <small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> </i> </small>
         </p>

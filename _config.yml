@@ -6,9 +6,19 @@ google_analytics:
 url: https://andxpto.github.io
 baseurl: ""
 
+markdown: kramdown
+highlighter: rouge
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
 sass:
-  style: :compressed
+  style: :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
