@@ -16,11 +16,9 @@
 </head>
 
 <body>
-    <div id="main" role="main" class="container">
-        {% include header.html %}
-    </div>
 
-    <div id="main" role="main" class="container">
+    <div class="container">
+        {% include header.html %}
         {{ content }}
     </div>
     <hr>
@@ -28,6 +26,5 @@
         <small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> </i> </small>
     </p>
 
-    {% include analytics.html %}
 </body>
 </html>
