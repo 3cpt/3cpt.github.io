@@ -1,20 +1,10 @@
 name: "Andre"
 description: "Warden of the Code Clean"
-
-google_analytics:
+author: andxpto
+email: andrecorreiait@gmail.com
 
 url: https://andxpto.github.io
 baseurl: ""
-
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-sass:
-  style: :expanded
 
 exclude:
   - Gemfile

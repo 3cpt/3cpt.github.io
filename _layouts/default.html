@@ -10,9 +10,7 @@
         {{ site.name }} &mdash; {{ site.description }}
     </title>
 
-    {% if site.highlighter %}
-        <link rel='stylesheet' href='{{ site.url }}/style.css' type='text/css'>
-    {% endif %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 
