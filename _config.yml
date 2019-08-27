@@ -8,10 +8,6 @@ social_links:
     github: andxpto
     linkedin: andcorreia
 
-sass:
-    style: :compressed
-    sass_dir: assets/css/
-
 exclude:
   - Gemfile
   - Gemfile.lock
