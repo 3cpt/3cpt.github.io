@@ -3,8 +3,10 @@ description: "Warden of the Code Clean"
 author: andxpto
 email: andrecorreiait@gmail.com
 
-url: https://andxpto.github.io
-baseurl: ""
+social_links:
+    twitter: andxpto
+    github: andxpto
+    linkedin: andcorreia
 
 exclude:
   - Gemfile
