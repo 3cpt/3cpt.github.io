@@ -1,13 +1,15 @@
-# Thanks to Bradley Taunt (https://github.com/bradleytaunt/lightspeed)
+# Permalinks
+permalink: pretty
 
+# Thanks to Bradley Taunt (https://github.com/bradleytaunt/lightspeed)
+#
 # Setup
-title: "o andre"
+title: "andxpto"
 url: https://andxpto.github.io
 tagline: "warden of the XPTO"
 baseurl: ""
 
-# Permalinks
-permalink: pretty
+
 
 # Assets
 #
