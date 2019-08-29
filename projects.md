@@ -1,16 +1,16 @@
 ---
-layout: default
-title: Projects
+layout: page
+title: projects
 permalink: /projects/
 ---
 
-### Price Warning
+### price warning
 
-Discount and promocodes for Gearbest.
-[Price Warning - Website](http://pricewarning.eu)
+website with promocodes for the Gearbest chinese web market build with free stuff (Azure & Mongo Atlas)
+[website](http://pricewarning.eu)
 
 ### andgearbest
 
-A wrapper for Gearbest Associate Program Api.
+API client for the Gearbest Associate Program build with C#
 [andgearbest - source code](https://github.com/andxpto/andgearbest)
 [andgearbest - nuget](https://www.nuget.org/packages/AndGearbest/)
