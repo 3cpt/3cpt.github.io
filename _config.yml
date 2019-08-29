@@ -1,16 +1,23 @@
-name: "Andre"
-description: "Warden of the Code Clean"
-author: andxpto
-email: andrecorreiait@gmail.com
+# Thanks to Bradley Taunt (https://github.com/bradleytaunt/lightspeed)
 
-social_links:
-    twitter: andxpto
-    github: andxpto
-    linkedin: andcorreia
+# Setup
+title:               'O Andre'
+url:                 https://andxpto.github.io
+tagline:             'Warden of the XPTO'
+baseurl:             ""
 
-exclude:
+# Permalinks
+permalink:           pretty
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+ exclude:
   - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
