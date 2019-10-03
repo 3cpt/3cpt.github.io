@@ -4,10 +4,10 @@ title: projects
 permalink: /projects/
 ---
 
-### price warning
+### frifrofru
 
 website with promocodes for the Gearbest chinese web market build with free stuff (Azure & Mongo Atlas)
-[website](http://pricewarning.eu)
+[website](https://www.frifrofru.com)
 
 ### andgearbest
 
