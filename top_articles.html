@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{% for article in site.data.articles %}
+
+<h3>{{ article.name }}</h3>
+<p><a href="{{ article.github }}" target="_blank">link</a> (by {{ article.author }})</p>
+<blockquote>
+    <p>{{ article.quote }}</p>
+</blockquote>
+
+{% endfor %}
