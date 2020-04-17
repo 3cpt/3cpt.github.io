@@ -4,8 +4,8 @@ title: Index
 permalink: /
 ---
 
-I am a sorcerer, I can magically transform a bunch of letters in something that ~~could~~ work in your computer. 
-At the moment working for [Farfetch](https://farfetchcareers.com) as developer.
+I'm a so(u)rcerer, I can magically transform a bunch of letters in something that ~~could~~ work and you can use it. 
+At the moment working for [Farfetch](https://farfetchcareers.com) as a software developer and as an open-source community manager.
 
 [github](https://github.com/andxpto) · 
 [gmail](mailto:andrecorreiait@gmail.com) · 
