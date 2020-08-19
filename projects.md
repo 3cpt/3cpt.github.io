@@ -12,5 +12,5 @@ website with promocodes for the Gearbest chinese web market build with free stuf
 ### andgearbest
 
 API client for the Gearbest Associate Program build with C#
-[andgearbest - source code](https://github.com/andxpto/andgearbest)
+[andgearbest - source code](https://github.com/xndry/andgearbest)
 [andgearbest - nuget](https://www.nuget.org/packages/AndGearbest/)
