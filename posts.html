@@ -1,18 +1,15 @@
 ---
 layout: page
-title: posts
-description: random posts
+title: selected articles
 ---
 
-<ul class="homepage-list" style="list-style:none;padding:1rem 0;">
-  {% for post in site.posts %}
-  <li style="align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:10px;">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <p>
-      <time style="font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">
-        {{ post.date | date: "%B %-d, %Y" }}
-      </time>
-    </p>
-  </li>
-  {% endfor %}
-</ul>
+<p>These are articles that I enjoy, but doesn't mean that I strongly agree with them.</p>
+
+{% for article in site.data.articles %}
+
+<h3>
+    <a href="{{ article.link }}" target="_blank">{{ article.name }}</a>
+</h3>
+<p>by {{ article.author }}</p>
+
+{% endfor %}
