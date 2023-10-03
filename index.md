@@ -4,5 +4,8 @@ title: andre
 permalink: /
 ---
 
-I'm a so(u)rcerer, and using the right tools with the right knowledge I can magically transform a bunch of letters and numbers in something that ~~could~~ work in a computer.
-At the moment working for [Farfetch](https://farfetchcareers.com) as a software engineer and as open-source community manager building an open-source program office (aka OSPO).
+**On the Job:**  
+I'm passionate about the delicate dance between impeccable software craftsmanship and the pulse of product development. A good process is essential, and I'm always seeking that optimal rhythm. At the heart of it all? The team. Their success drives the entire project forward, and I prioritize fostering a collaborative and harmonious environment.
+
+**A Bit About Me:**  
+Positivity and open communication are my hallmarks. I believe in not just coding with best practices but also living them – from fostering transparent conversations to ensuring that every interaction is rooted in respect and understanding - and with some fun too.
