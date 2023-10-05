@@ -5,7 +5,7 @@ permalink: /
 ---
 
 **On the Job:**  
-I'm passionate about the delicate dance between impeccable software craftsmanship and the pulse of product development. A good process is essential, and I'm always seeking that optimal rhythm. At the heart of it all? The team. Their success drives the entire project forward, and I prioritize fostering a collaborative and harmonious environment.
+I really like finding the balance between doing great work on software and moving the project along. A good plan is important, and I'm always looking for the best way to do things. The most important part? The team. When they do well, the whole project does well, and I work hard to make sure we all get along and work well together.
 
 **A Bit About Me:**  
-Positivity and open communication are my hallmarks. I believe in not just coding with best practices but also living them – from fostering transparent conversations to ensuring that every interaction is rooted in respect and understanding - and with some fun too.
+I like to stay positive and talk openly with others. I believe in not just doing the coding right but also treating people right – by talking clearly, listening, and showing respect in every talk we have. Plus, I love to keep people laughing. A good laugh makes any day better!
