@@ -4,10 +4,10 @@ permalink: pretty
 # Theme by Bradley Taunt (https://github.com/bradleytaunt/lightspeed)
 #
 # Setup
-title: "andre"
+title: 'andre'
 url: https://3cpt.github.io
-tagline: "software artisan & open source advocate"
-baseurl: ""
+tagline: 'software artisan'
+baseurl: ''
 
 # Assets
 #
